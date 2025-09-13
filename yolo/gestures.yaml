@@ -1,0 +1,17 @@
+# YOLO dataset config for hand gesture detection (bounding-box level)
+# Update `path` to your dataset root before training.
+
+path: ./datasets/gestures  # root dir containing images/ and labels/
+train: images/train
+val: images/val
+# Optional test split
+# test: images/test
+
+# List your gesture classes here (order matters)
+names:
+  - thumbs_up
+  - peace
+  - fist
+  - stop
+  - okay
+
