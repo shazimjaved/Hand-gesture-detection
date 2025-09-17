@@ -62,4 +62,4 @@ If you’d like to add more gestures or improve accuracy, feel free to open an i
 
 📜 License
 
-This project is licensed under the MIT License – see the LICENSE
+This project is licensed under the MIT License
