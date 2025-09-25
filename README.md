@@ -7,7 +7,7 @@ It detects multiple gestures such as Fist, Open Palm, Thumbs Up, Thumbs Down, Pe
 
 🎥 Works with Webcam or Video file input
 
-🖐 Detects gestures:
+Detects gestures:
 
 ✊ Fist
 
