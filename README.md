@@ -305,14 +305,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Google MediaPipe** - For the excellent ML framework
-- **OpenCV Community** - For computer vision tools
-- **Python Community** - For the amazing ecosystem
-
----
-
 ## 📞 Support
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/shazimjaved/Hand-gesture-detection/issues)
